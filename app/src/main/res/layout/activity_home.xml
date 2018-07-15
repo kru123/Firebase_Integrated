@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.education.user.booz.HomeActivity">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/framelayout6"
+        android:animateLayoutChanges="true"
+        android:layout_above="@+id/navigation"
+        />
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:itemIconTint="@color/colorPrimary"
+        app:menu="@menu/bottom_menu"
+        android:layout_height="wrap_content">
+
+    </android.support.design.widget.BottomNavigationView>
+</RelativeLayout>

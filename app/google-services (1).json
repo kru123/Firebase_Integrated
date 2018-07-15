@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "418940306096",
+    "firebase_url": "https://booz-16b94.firebaseio.com",
+    "project_id": "booz-16b94",
+    "storage_bucket": "booz-16b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418940306096:android:3b09fcfd8b383a02",
+        "android_client_info": {
+          "package_name": "com.education.user.booz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418940306096-2iv5rcnrb3pjfo8033kqrr5n3h8o1b5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vuDxbcaRWnxMds6RbwDpQW74IHAH7AQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

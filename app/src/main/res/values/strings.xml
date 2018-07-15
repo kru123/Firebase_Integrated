@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Booz</string>
+    <string name="take_quiz">Accept the challenge</string>
+    <string name="title1">Ranking</string>
+    <string name="title2">Categories</string>
+    <string name="categoryn">Category Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
